@@ -7,6 +7,7 @@ public class counter
         Scanner sc = new Scanner(System.in);
         
         text =  sc.nextLine();
+        System.out.printf("%s\n",text);
 
     
     }
