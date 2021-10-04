@@ -6,7 +6,7 @@ public class countchar
         Scanner sc = new Scanner(System.in);
         System.out.print("Please insert a Text: ");
         String text = sc.nextLine();
-        System.out.print("Please insert a letter to search: ");
+        System.out.print("Please insert a letter to count: ");
         char find = sc.next().charAt(0);
         int counter = 0;
 
