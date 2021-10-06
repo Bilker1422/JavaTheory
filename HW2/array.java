@@ -10,9 +10,13 @@ public class array
             b = a;
             a = total;
             numbers[i] = total;
-            System.out.printf("%d ", numbers[i]);
+            
 
 
+        }
+        for(int i = 0; i < 12 ; i++)
+        {
+            System.out.printf("%d,", numbers[i]);
         }
     }
 }
