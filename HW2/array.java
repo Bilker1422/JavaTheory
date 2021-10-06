@@ -10,9 +10,6 @@ public class array
             b = a;
             a = total;
             numbers[i] = total;
-            
-
-
         }
         for(int i = 0; i < 12 ; i++)
         {
