@@ -16,4 +16,4 @@ public class array
             System.out.printf("%d,", numbers[i]);
         }
     }
-}
+}-
