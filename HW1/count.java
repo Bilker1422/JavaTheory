@@ -18,7 +18,7 @@ public class count
         }
         while(text.charAt(counter) != '\0');
         System.out.println("Manual count equal to "+counter);
-        text = text.replace('y', 'Y').replace('Y','*');
+        text = text.replace('a', 'A').replace('A','*');
         System.out.println(text);
     }
 }
