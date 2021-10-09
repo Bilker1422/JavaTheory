@@ -13,7 +13,7 @@ public class array
         }
         for(int i = 0; i < 12 ; i++)
         {
-            System.out.printf("%d,", numbers[i]);
+            System.out.printf("%d, ", numbers[i]);
         }
     }
 }

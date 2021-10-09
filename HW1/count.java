@@ -13,8 +13,6 @@ public class count
         do 
         {
             counter++;
-            
-            
         }
         while(text.charAt(counter) != '\0');
         System.out.println("Manual count equal to "+counter);
