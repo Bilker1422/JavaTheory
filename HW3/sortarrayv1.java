@@ -13,11 +13,6 @@ public class sortarrayv1
                     args[i] = args[count];
                     args[count]= item;
                 }
-                for (int a:args)
-                {
-                    System.out.print(a+" ");
-                }
-                System.out.println();
             }
             count++;
         }while (count < args.length);
@@ -26,4 +21,6 @@ public class sortarrayv1
             System.out.print(a+" ");
         }
     }
-}
+}eixt
+eixt
+eixt
